@@ -6,7 +6,7 @@ int main()
     int i;
     printf("a number:");
     scanf("%d",&i);
-    int factorial = factorial(i);
-    printf("%d\n",factorial);
+    int factorialnumber = factorial(i);
+    printf("%d\n",factorialnumber);
     return 0;
 }
