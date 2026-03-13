@@ -3,10 +3,10 @@
 
 int main()
 {
-    int n;
+    int i;
     printf("a number:");
-    scanf("%d",&n);
-    int factorial = factorial(n);
+    scanf("%d",&i);
+    int factorial = factorial(i);
     printf("%d/n",factorial);
     return 0;
 }
